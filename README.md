@@ -4,7 +4,7 @@ Algorithms list:
 # Gaussian NB
 #LogisticRegression
 #KNN
-# SVM
+#SVM
 #RandomForest
 #DecisionTree
 #xgboost
